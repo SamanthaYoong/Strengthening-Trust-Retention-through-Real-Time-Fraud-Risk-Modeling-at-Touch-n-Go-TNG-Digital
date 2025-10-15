@@ -139,6 +139,7 @@ By combining **predictive modeling**, **real-time deployment**, and **explainabl
 
 ##  Visuals
 
+/visuals/
 ├── fraud_detection_rate_trend.png
 ├── shap_feature_importance.png
 ├── realtime_pipeline_architecture.png
